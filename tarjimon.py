@@ -1,2 +1,1 @@
-print('salom')
-print('Axmad')
+print('salom git hup')
